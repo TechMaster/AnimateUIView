@@ -1,0 +1,9 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.51 clang-802.0.41)"
+options: "34c6c38d1d11af08492afde61ddcbe9f"
+build_time: [554542958, 364894000]
+inputs:
+  "/Users/techmaster/Downloads/animationWithQueue-master/Queue.swift": [554147321, 0]
+  "/Users/techmaster/Downloads/animationWithQueue-master/DemoAnimation/AniView.swift": [554542956, 0]
+  "/Users/techmaster/Downloads/animationWithQueue-master/DemoAnimation/ViewController.swift": [554542060, 0]
+  "/Users/techmaster/Downloads/animationWithQueue-master/DemoAnimation/AnimateItem.swift": [554147321, 0]
+  "/Users/techmaster/Downloads/animationWithQueue-master/DemoAnimation/AppDelegate.swift": [554147321, 0]
